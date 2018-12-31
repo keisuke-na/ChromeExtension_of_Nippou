@@ -9,8 +9,8 @@ Choose the file from 'Load unpacked'.
 What's the function? **/
 Put tag automatically with your clipboard like this.
 
-[To:****] 									// Can change it from option.
-Please check my dairy report.			    // Can change it from option.
+[To:****] // Can change it from options.								
+Please check my dairy report. // Can change it from options.	    	
 [info][title]Today's daily[/title]
 ***************************************		/***
 ***************************************			from your clipboard
